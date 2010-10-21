@@ -1,0 +1,1 @@
+See [this blog post](http://developmentseed.org/blog/2010/oct/21/managing-news-now-available-spanish) for information about using these translations.
