@@ -2084,7 +2084,7 @@ msgstr ""
 
 #: /managingnews-1.1/
 msgid "on "
-msgstr ""
+msgstr "de "
 
 #: /managingnews-1.1/
 msgid "Todos"
@@ -19993,4 +19993,10 @@ msgstr "Cambios han sido guardados."
 
 msgid "from @site_name"
 msgstr "de @site_name"
+
+msgid "story"
+msgstr "artículo"
+
+msgid "stories"
+msgstr "artículos"
 
