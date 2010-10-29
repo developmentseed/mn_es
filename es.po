@@ -19843,8 +19843,8 @@ msgstr ""
 "botón <em>Guardar esta búsqueda</em>. Si lo desea, puede poner de "
 "relieve la búsqueda para mostrar en la página principal del sitio."
 
-msgid "More news from"
-msgstr "Más noticias de"
+msgid "More news from <a href="@site_url">@site_name</a>."
+msgstr "Más noticias de <a href="@site_url">@site_name</a>."
 
 msgid "Embed code"
 msgstr "Codigo de integración"
@@ -19990,4 +19990,7 @@ msgstr "Guarda esta búsqueda"
 
 msgid "Change saved."
 msgstr "Cambios han sido guardados."
+
+msgid "from @site_name"
+msgstr "de @site_name"
 
